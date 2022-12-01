@@ -1,0 +1,38 @@
+.input {
+    border: none;
+    border-bottom: 1px solid #FF9494;
+  }
+
+  .input:focus {
+    background-color: yellow;
+    border: none;
+  }
+
+  .container {
+    text-align: center;
+    padding: 10%;
+  }
+
+  
+  .button {
+    
+    border-width: 2px;
+    border-radius: 3px;
+    border-color: #FF9494;
+    background-color: white;
+    color: #FF9494;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  * {
+    color: #FF9494;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  
